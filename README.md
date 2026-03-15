@@ -1,3 +1,3 @@
 # resume-builder-demo
 this is my first git repository.
-Author - BHumika
+Author - Bhumika
